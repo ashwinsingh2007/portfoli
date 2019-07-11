@@ -79,6 +79,12 @@ let resumeData = {
   ],
   portfolio: [
     {
+      name: "Static security online code scanner for Node.js applications",
+      description: "Used React, Redux , Saga, Python Django, NodejsScan library",
+      imgurl: "https://geekflare.com/wp-content/uploads/2016/11/nodejs-security.png",
+      url: "http://ashwin-react-app.s3-website.ap-south-1.amazonaws.com/",
+    },
+    {
       name: "React-MusicPlayer",
       description: "Music Playe made in react",
       imgurl: "https://img.rasset.ie/000fd53c-500.jpg",
